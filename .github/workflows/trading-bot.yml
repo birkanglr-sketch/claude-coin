@@ -1,0 +1,40 @@
+name: Paper Trading Bot
+
+on:
+  schedule:
+    # Her 15 dakikada bir çalışır (GitHub'ın kuyruk yoğunluğuna göre birkaç
+    # dakika gecikme olabilir, bu normaldir)
+    - cron: "*/15 * * * *"
+  workflow_dispatch: {}   # İstersen Actions sekmesinden elle de tetikleyebilirsin
+
+permissions:
+  contents: write   # state.json ve trades_log.csv'yi commit edebilmek için gerekli
+
+jobs:
+  run-bot:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Repoyu çek
+        uses: actions/checkout@v4
+
+      - name: Python kur
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Bağımlılıkları kur
+        run: pip install ccxt pandas
+
+      - name: Botu çalıştır
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python bot.py
+
+      - name: Durumu commit et
+        run: |
+          git config user.name "trading-bot"
+          git config user.email "trading-bot@users.noreply.github.com"
+          git add state.json trades_log.csv
+          git diff --quiet --cached || git commit -m "Bot güncellemesi: $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push
