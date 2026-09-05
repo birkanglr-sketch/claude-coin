@@ -1,0 +1,22 @@
+{
+  "cash": 1299.493765586431,
+  "positions": {
+    "DAI/USD": {
+      "qty": 500.0,
+      "entry_price": 1.0
+    },
+    "EURC/USD": {
+      "qty": 113.90019693605679,
+      "entry_price": 1.16134
+    },
+    "JUP/USD": {
+      "qty": 202.78817590879302,
+      "entry_price": 0.22113
+    },
+    "ASTER/USD": {
+      "qty": 29.66215611224339,
+      "entry_price": 0.78844
+    }
+  },
+  "starting_balance": 2000.0
+}
