@@ -4,3 +4,8 @@ timestamp,symbol,action,price,qty,cash_after,reason
 2026-09-05T20:10:48.918178+00:00,JUP/USD,BUY,0.221130,202.788176,1322.88,RSI aşırı satımdan çıkış | Risk ağırlıklı bütçe: 44.84 USD (volatilite: 0.0038)
 2026-09-05T20:10:48.918196+00:00,ASTER/USD,BUY,0.788440,29.662156,1299.49,RSI aşırı satımdan çıkış | Risk ağırlıklı bütçe: 23.39 USD (volatilite: 0.0073)
 2026-09-05T21:46:15.547580+00:00,IDOS/USD,BUY,0.009280,53879.310345,799.49,RSI aşırı satımdan çıkış | Risk ağırlıklı bütçe: 500.00 USD (volatilite: 0.0487)
+2026-09-05T23:24:15.389269+00:00,IDOS/USD,SELL,0.008900,53879.310345,1279.02,Stop-loss (%3) | PnL: -20.47 (-4.09%)
+2026-09-05T23:24:15.389393+00:00,AVAX/USD,BUY,7.593000,50.130459,898.38,MA Golden Cross | Risk ağırlıklı bütçe: 380.64 USD (volatilite: 0.0020)
+2026-09-05T23:24:15.389425+00:00,ZEC/USD,BUY,1020.710000,0.291483,600.86,MA Golden Cross | Risk ağırlıklı bütçe: 297.52 USD (volatilite: 0.0025)
+2026-09-05T23:24:15.389449+00:00,TRUMP/USD,BUY,2.363000,101.535740,360.93,MA Golden Cross | Risk ağırlıklı bütçe: 239.93 USD (volatilite: 0.0032)
+2026-09-05T23:24:15.389472+00:00,BONK/USD,BUY,0.000003,72122594.048797,127.90,RSI aşırı satımdan çıkış | Risk ağırlıklı bütçe: 233.03 USD (volatilite: 0.0033)
