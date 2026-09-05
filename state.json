@@ -1,5 +1,5 @@
 {
-  "cash": 1299.493765586431,
+  "cash": 799.493765586431,
   "positions": {
     "DAI/USD": {
       "qty": 500.0,
@@ -16,6 +16,10 @@
     "ASTER/USD": {
       "qty": 29.66215611224339,
       "entry_price": 0.78844
+    },
+    "IDOS/USD": {
+      "qty": 53879.31034482759,
+      "entry_price": 0.00928
     }
   },
   "starting_balance": 2000.0

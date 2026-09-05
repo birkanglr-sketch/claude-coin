@@ -3,3 +3,4 @@ timestamp,symbol,action,price,qty,cash_after,reason
 2026-09-05T20:10:48.918157+00:00,EURC/USD,BUY,1.161340,113.900197,1367.72,MA Golden Cross | Risk ağırlıklı bütçe: 132.28 USD (volatilite: 0.0013)
 2026-09-05T20:10:48.918178+00:00,JUP/USD,BUY,0.221130,202.788176,1322.88,RSI aşırı satımdan çıkış | Risk ağırlıklı bütçe: 44.84 USD (volatilite: 0.0038)
 2026-09-05T20:10:48.918196+00:00,ASTER/USD,BUY,0.788440,29.662156,1299.49,RSI aşırı satımdan çıkış | Risk ağırlıklı bütçe: 23.39 USD (volatilite: 0.0073)
+2026-09-05T21:46:15.547580+00:00,IDOS/USD,BUY,0.009280,53879.310345,799.49,RSI aşırı satımdan çıkış | Risk ağırlıklı bütçe: 500.00 USD (volatilite: 0.0487)
