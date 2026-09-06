@@ -1,0 +1,30 @@
+{
+  "cash": 675.2541019541576,
+  "positions": {
+    "JUP/USD": {
+      "qty": 202.78817590879302,
+      "entry_price": 0.22113
+    },
+    "ASTER/USD": {
+      "qty": 29.66215611224339,
+      "entry_price": 0.78844
+    },
+    "TRUMP/USD": {
+      "qty": 101.53573965107248,
+      "entry_price": 2.363
+    },
+    "BONK/USD": {
+      "qty": 72122594.0487968,
+      "entry_price": 3.231e-06
+    },
+    "SUI/USD": {
+      "qty": 497.47364544015875,
+      "entry_price": 0.8018
+    },
+    "ICP/USD": {
+      "qty": 145.68558387944867,
+      "entry_price": 2.655
+    }
+  },
+  "starting_balance": 2000.0
+}
