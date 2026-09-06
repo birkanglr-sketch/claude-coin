@@ -50,8 +50,8 @@ RSI_OVERBOUGHT = 70
 MA_FAST = 9
 MA_SLOW = 21
 
-STOP_LOSS_PCT = 0.04
-TAKE_PROFIT_PCT = 0.10
+STOP_LOSS_PCT = 0.025
+TAKE_PROFIT_PCT = 0.7
 
 # Stablecoin'ler (dolara sabitli) volatilitesi neredeyse sıfır olduğu için
 # risk-ağırlıklı dağıtım yanlışlıkla en büyük payı bunlara veriyordu —
