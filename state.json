@@ -1,10 +1,6 @@
 {
-  "cash": 675.2541019541576,
+  "cash": 72.37285875233951,
   "positions": {
-    "JUP/USD": {
-      "qty": 202.78817590879302,
-      "entry_price": 0.22113
-    },
     "ASTER/USD": {
       "qty": 29.66215611224339,
       "entry_price": 0.78844
@@ -24,6 +20,18 @@
     "ICP/USD": {
       "qty": 145.68558387944867,
       "entry_price": 2.655
+    },
+    "BABYSHARK/USD": {
+      "qty": 59282.6789479932,
+      "entry_price": 0.005381
+    },
+    "SYRUP/USD": {
+      "qty": 856.515387417179,
+      "entry_price": 0.21219
+    },
+    "BTR/USD": {
+      "qty": 3203.821172002837,
+      "entry_price": 0.04701
     }
   },
   "starting_balance": 2000.0

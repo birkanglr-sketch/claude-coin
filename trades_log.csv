@@ -13,3 +13,7 @@ timestamp,symbol,action,price,qty,cash_after,reason
 2026-09-06T01:13:19.593753+00:00,SUI/USD,BUY,0.801800,497.473645,44.32,RSI aşırı satımdan çıkış | Risk ağırlıklı bütçe: 398.87 USD (volatilite: 0.0032)
 2026-09-06T05:59:33.490902+00:00,AVAX/USD,SELL,7.689000,50.130459,429.77,MA Death Cross | PnL: 4.81 (1.26%)
 2026-09-06T05:59:33.491026+00:00,ICP/USD,BUY,2.655000,145.685584,42.98,RSI aşırı satımdan çıkış | Risk ağırlıklı bütçe: 386.80 USD (volatilite: 0.0043)
+2026-09-06T07:47:11.832020+00:00,JUP/USD,SELL,0.239040,202.788176,723.73,Take-profit (%5) | PnL: 3.63 (8.10%)
+2026-09-06T07:47:11.832171+00:00,BABYSHARK/USD,BUY,0.005381,59282.678948,404.73,RSI aşırı satımdan çıkış | Risk ağırlıklı bütçe: 319.00 USD (volatilite: 0.0034)
+2026-09-06T07:47:11.832219+00:00,SYRUP/USD,BUY,0.212190,856.515387,222.98,MA Golden Cross | Risk ağırlıklı bütçe: 181.74 USD (volatilite: 0.0060)
+2026-09-06T07:47:11.832257+00:00,BTR/USD,BUY,0.047010,3203.821172,72.37,MA Golden Cross | Risk ağırlıklı bütçe: 150.61 USD (volatilite: 0.0072)
