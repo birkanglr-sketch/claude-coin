@@ -11,3 +11,5 @@ timestamp,symbol,action,price,qty,cash_after,reason
 2026-09-05T23:24:15.389472+00:00,BONK/USD,BUY,0.000003,72122594.048797,127.90,RSI aşırı satımdan çıkış | Risk ağırlıklı bütçe: 233.03 USD (volatilite: 0.0033)
 2026-09-06T01:13:19.593632+00:00,ZEC/USD,SELL,1081.680000,0.291483,443.19,Take-profit (%5) | PnL: 17.77 (5.97%)
 2026-09-06T01:13:19.593753+00:00,SUI/USD,BUY,0.801800,497.473645,44.32,RSI aşırı satımdan çıkış | Risk ağırlıklı bütçe: 398.87 USD (volatilite: 0.0032)
+2026-09-06T05:59:33.490902+00:00,AVAX/USD,SELL,7.689000,50.130459,429.77,MA Death Cross | PnL: 4.81 (1.26%)
+2026-09-06T05:59:33.491026+00:00,ICP/USD,BUY,2.655000,145.685584,42.98,RSI aşırı satımdan çıkış | Risk ağırlıklı bütçe: 386.80 USD (volatilite: 0.0043)
