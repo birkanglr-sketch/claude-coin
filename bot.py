@@ -33,7 +33,7 @@ from datetime import datetime, timezone
 EXCHANGE_ID = "kraken"
 QUOTE_CURRENCY = "USD"
 TOP_N_COINS = 100            # Hacme göre taranacak coin sayısı
-TIMEFRAME = "15m"
+TIMEFRAME = "20m"
 CANDLE_LIMIT = 50            # Sinyal/volatilite hesabı için çekilecek mum sayısı
 
 STARTING_BALANCE_USD = 2000.0
@@ -50,8 +50,8 @@ RSI_OVERBOUGHT = 70
 MA_FAST = 9
 MA_SLOW = 21
 
-STOP_LOSS_PCT = 0.03
-TAKE_PROFIT_PCT = 0.05
+STOP_LOSS_PCT = 0.04
+TAKE_PROFIT_PCT = 0.10
 
 # Stablecoin'ler (dolara sabitli) volatilitesi neredeyse sıfır olduğu için
 # risk-ağırlıklı dağıtım yanlışlıkla en büyük payı bunlara veriyordu —
