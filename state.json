@@ -1,13 +1,9 @@
 {
-  "cash": 72.37285875233951,
+  "cash": 704.4010787058489,
   "positions": {
     "ASTER/USD": {
       "qty": 29.66215611224339,
       "entry_price": 0.78844
-    },
-    "TRUMP/USD": {
-      "qty": 101.53573965107248,
-      "entry_price": 2.363
     },
     "BONK/USD": {
       "qty": 72122594.0487968,
@@ -16,10 +12,6 @@
     "SUI/USD": {
       "qty": 497.47364544015875,
       "entry_price": 0.8018
-    },
-    "ICP/USD": {
-      "qty": 145.68558387944867,
-      "entry_price": 2.655
     },
     "BABYSHARK/USD": {
       "qty": 59282.6789479932,
@@ -32,6 +24,14 @@
     "BTR/USD": {
       "qty": 3203.821172002837,
       "entry_price": 0.04701
+    },
+    "TRX/USD": {
+      "qty": 59.79448635041362,
+      "entry_price": 0.334479
+    },
+    "DOG/USD": {
+      "qty": 18034.265103697024,
+      "entry_price": 0.001109
     }
   },
   "starting_balance": 2000.0

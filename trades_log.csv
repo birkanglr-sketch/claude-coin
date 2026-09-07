@@ -17,3 +17,7 @@ timestamp,symbol,action,price,qty,cash_after,reason
 2026-09-06T07:47:11.832171+00:00,BABYSHARK/USD,BUY,0.005381,59282.678948,404.73,RSI aşırı satımdan çıkış | Risk ağırlıklı bütçe: 319.00 USD (volatilite: 0.0034)
 2026-09-06T07:47:11.832219+00:00,SYRUP/USD,BUY,0.212190,856.515387,222.98,MA Golden Cross | Risk ağırlıklı bütçe: 181.74 USD (volatilite: 0.0060)
 2026-09-06T07:47:11.832257+00:00,BTR/USD,BUY,0.047010,3203.821172,72.37,MA Golden Cross | Risk ağırlıklı bütçe: 150.61 USD (volatilite: 0.0072)
+2026-09-07T19:41:10.816450+00:00,TRUMP/USD,SELL,2.274000,101.535740,303.27,Stop-loss (%3) | PnL: -9.04 (-3.77%)
+2026-09-07T19:41:10.816520+00:00,ICP/USD,SELL,3.028000,145.685584,744.40,Take-profit (%5) | PnL: 54.34 (14.05%)
+2026-09-07T19:41:10.816599+00:00,TRX/USD,BUY,0.334479,59.794486,724.40,MA Golden Cross | Risk ağırlıklı bütçe: 20.00 USD (volatilite: 0.0009)
+2026-09-07T19:41:10.816624+00:00,DOG/USD,BUY,0.001109,18034.265104,704.40,RSI aşırı satımdan çıkış | Risk ağırlıklı bütçe: 20.00 USD (volatilite: 0.0145)
