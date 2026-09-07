@@ -39,8 +39,8 @@ CANDLE_LIMIT = 50            # Sinyal/volatilite hesabı için çekilecek mum sa
 STARTING_BALANCE_USD = 2000.0
 
 # --- Risk / bütçe dağıtım kuralları ---
-MAX_CONCURRENT_POSITIONS = 50     # Aynı anda en fazla kaç coinde pozisyon olsun
-MAX_TRADE_USD = 10                # Tek bir işleme en fazla bu kadar $ yatırılsın (sabit tavan)
+MAX_CONCURRENT_POSITIONS = 100     # Aynı anda en fazla kaç coinde pozisyon olsun
+MAX_TRADE_USD = 20                # Tek bir işleme en fazla bu kadar $ yatırılsın (sabit tavan)
 MIN_TRADE_USD = 5                 # Bu tutarın altındaki işlemler açılmaz (anlamsız ufalanmayı önler)
 CASH_RESERVE_PCT = 0.05           # Bakiyenin bu kadarı hiç yatırılmadan nakit tutulsun
 
