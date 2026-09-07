@@ -1,13 +1,9 @@
 {
-  "cash": 704.4010787058489,
+  "cash": 830.3611658607293,
   "positions": {
     "ASTER/USD": {
       "qty": 29.66215611224339,
       "entry_price": 0.78844
-    },
-    "BONK/USD": {
-      "qty": 72122594.0487968,
-      "entry_price": 3.231e-06
     },
     "SUI/USD": {
       "qty": 497.47364544015875,
@@ -32,6 +28,26 @@
     "DOG/USD": {
       "qty": 18034.265103697024,
       "entry_price": 0.001109
+    },
+    "AUD/USD": {
+      "qty": 27.716570351584696,
+      "entry_price": 0.72159
+    },
+    "NIGHT/USD": {
+      "qty": 866.9267446900736,
+      "entry_price": 0.02307
+    },
+    "ADA/USD": {
+      "qty": 91.23837851153709,
+      "entry_price": 0.219206
+    },
+    "XCN/USD": {
+      "qty": 5012.5313283208025,
+      "entry_price": 0.00399
+    },
+    "VIRTUAL/USD": {
+      "qty": 27.666343892654588,
+      "entry_price": 0.7229
     }
   },
   "starting_balance": 2000.0
