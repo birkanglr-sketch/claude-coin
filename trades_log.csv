@@ -42,3 +42,8 @@ timestamp,symbol,action,price,qty,cash_after,reason
 2026-09-08T05:16:51.718540+00:00,MANA/USD,BUY,0.076390,261.814374,947.46,MA Golden Cross | Risk ağırlıklı bütçe: 20.00 USD (volatilite: 0.0030)
 2026-09-08T05:16:51.718578+00:00,ICP/USD,BUY,3.043000,6.572461,927.46,MA Golden Cross | Risk ağırlıklı bütçe: 20.00 USD (volatilite: 0.0063)
 2026-09-08T05:16:51.718613+00:00,FET/USD,BUY,0.184100,108.636611,907.46,RSI aşırı satımdan çıkış | Risk ağırlıklı bütçe: 20.00 USD (volatilite: 0.0068)
+2026-09-08T09:47:28.538277+00:00,MON/USD,SELL,0.025910,224.460361,913.28,Stop-loss (%3) | PnL: -0.22 (-3.61%)
+2026-09-08T09:47:28.538418+00:00,SEI/USD,BUY,0.049310,405.597242,893.28,MA Golden Cross | Risk ağırlıklı bütçe: 20.00 USD (volatilite: 0.0043)
+2026-09-08T09:47:28.538463+00:00,PUMP/USD,BUY,0.004308,4642.525534,873.28,MA Golden Cross | Risk ağırlıklı bütçe: 20.00 USD (volatilite: 0.0052)
+2026-09-08T09:47:28.538503+00:00,DOG/USD,BUY,0.001076,18587.360595,853.28,MA Golden Cross | Risk ağırlıklı bütçe: 20.00 USD (volatilite: 0.0070)
+2026-09-08T09:47:28.538539+00:00,AERO/USD,BUY,0.647800,30.873726,833.28,MA Golden Cross | Risk ağırlıklı bütçe: 20.00 USD (volatilite: 0.0087)
