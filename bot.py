@@ -38,10 +38,10 @@ CANDLE_LIMIT = 50            # Sinyal/volatilite hesabı için çekilecek mum sa
 
 STARTING_BALANCE_USD = 2000.0
 
-# --- Risk / bütçe dağıtım kuralları ---
-MAX_CONCURRENT_POSITIONS = 100     # Aynı anda en fazla kaç coinde pozisyon olsun
-MAX_TRADE_USD = 20                # Tek bir işleme en fazla bu kadar $ yatırılsın (sabit tavan)
-MIN_TRADE_USD = 5                 # Bu tutarın altındaki işlemler açılmaz (anlamsız ufalanmayı önler)
+# --- Risk / bütçe dağıtım kuralları (agresif/yoğunlaşmış mod) ---
+MAX_CONCURRENT_POSITIONS = 4      # Az sayıda coine büyük bahis — çeşitlilik yerine yoğunlaşma
+MAX_ALLOC_PER_COIN_PCT = 0.35     # Tek coine, toplam bütçenin en fazla %35'i kadar yatırılabilir
+MIN_TRADE_USD = 15                # Bu tutarın altındaki işlemler açılmaz
 CASH_RESERVE_PCT = 0.05           # Bakiyenin bu kadarı hiç yatırılmadan nakit tutulsun
 
 RSI_PERIOD = 14
@@ -219,6 +219,7 @@ def main():
         total_inv_vol = sum(inv_vol.values())
 
         investable_cash = state["cash"] * (1 - CASH_RESERVE_PCT)
+        max_per_coin = state["starting_balance"] * MAX_ALLOC_PER_COIN_PCT
 
         # En güçlü adaylardan başla (ağırlığı en yüksek = en düşük riskli), slot kadarını al
         sorted_candidates = sorted(candidates, key=lambda c: inv_vol[c["symbol"]], reverse=True)[:open_slots]
@@ -226,7 +227,7 @@ def main():
 
         for c in sorted_candidates:
             weight = inv_vol[c["symbol"]] / chosen_inv_vol_sum
-            alloc = min(investable_cash * weight, MAX_TRADE_USD, state["cash"])
+            alloc = min(investable_cash * weight, max_per_coin, state["cash"])
             if alloc < MIN_TRADE_USD:
                 continue
             qty = alloc / c["price"]
