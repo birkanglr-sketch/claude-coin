@@ -70,3 +70,6 @@ timestamp,symbol,action,price,qty,cash_after,reason
 2026-09-08T13:56:48.768117+00:00,RAY/USD,BUY,1.078000,18.552876,767.44,RSI aşırı satımdan çıkış | Risk ağırlıklı bütçe: 20.00 USD (volatilite: 0.0079)
 2026-09-08T13:56:48.768129+00:00,NIGHT/USD,BUY,0.022880,874.125874,747.44,RSI aşırı satımdan çıkış | Risk ağırlıklı bütçe: 20.00 USD (volatilite: 0.0083)
 2026-09-08T13:56:48.768164+00:00,SKR/USD,BUY,0.021223,942.373840,727.44,RSI aşırı satımdan çıkış | Risk ağırlıklı bütçe: 20.00 USD (volatilite: 0.0090)
+2026-09-08T17:44:56.022112+00:00,ICP/USD,SELL,2.939000,6.572461,746.76,Stop-loss (%3) | PnL: -0.68 (-3.42%)
+2026-09-08T17:44:56.022211+00:00,CC/USD,SELL,0.106880,193.554631,767.44,RSI aşırı alımdan düşüş | PnL: 0.69 (3.44%)
+2026-09-08T17:44:56.022257+00:00,RAY/USD,SELL,1.137000,18.552876,788.54,Take-profit (%5) | PnL: 1.09 (5.47%)
