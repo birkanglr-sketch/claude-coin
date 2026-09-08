@@ -1,5 +1,5 @@
 {
-  "cash": 833.2795993699733,
+  "cash": 727.4393804168758,
   "positions": {
     "SUI/USD": {
       "qty": 497.47364544015875,
@@ -9,10 +9,6 @@
       "qty": 59282.6789479932,
       "entry_price": 0.005381
     },
-    "BTR/USD": {
-      "qty": 3203.821172002837,
-      "entry_price": 0.04701
-    },
     "TRX/USD": {
       "qty": 59.79448635041362,
       "entry_price": 0.334479
@@ -20,10 +16,6 @@
     "AUD/USD": {
       "qty": 27.716570351584696,
       "entry_price": 0.72159
-    },
-    "NIGHT/USD": {
-      "qty": 866.9267446900736,
-      "entry_price": 0.02307
     },
     "ADA/USD": {
       "qty": 91.23837851153709,
@@ -45,10 +37,6 @@
       "qty": 188.1712325961728,
       "entry_price": 0.09493
     },
-    "MORPHO/USD": {
-      "qty": 4.306405296177418,
-      "entry_price": 2.47665
-    },
     "CRV/USD": {
       "qty": 23.494819449303435,
       "entry_price": 0.36865
@@ -56,10 +44,6 @@
     "LDO/USD": {
       "qty": 19.196878823437952,
       "entry_price": 0.394
-    },
-    "STRK/USD": {
-      "qty": 235.9130255457183,
-      "entry_price": 0.03146
     },
     "LIGHTER/USD": {
       "qty": 1.2786426467742924,
@@ -77,10 +61,6 @@
       "qty": 6.572461386789352,
       "entry_price": 3.043
     },
-    "FET/USD": {
-      "qty": 108.63661053775121,
-      "entry_price": 0.1841
-    },
     "SEI/USD": {
       "qty": 405.5972419387548,
       "entry_price": 0.04931
@@ -93,9 +73,73 @@
       "qty": 18587.36059479554,
       "entry_price": 0.001076
     },
-    "AERO/USD": {
-      "qty": 30.873726458783572,
-      "entry_price": 0.6478
+    "TON/USD": {
+      "qty": 14.419610670511895,
+      "entry_price": 1.387
+    },
+    "HBAR/USD": {
+      "qty": 250.50100200400803,
+      "entry_price": 0.07984
+    },
+    "BCH/USD": {
+      "qty": 0.07887679444707367,
+      "entry_price": 253.56
+    },
+    "XDC/USD": {
+      "qty": 703.2348804500704,
+      "entry_price": 0.02844
+    },
+    "CC/USD": {
+      "qty": 193.55463079454174,
+      "entry_price": 0.10333
+    },
+    "ASTER/USD": {
+      "qty": 26.642155883254073,
+      "entry_price": 0.75069
+    },
+    "SHIB/USD": {
+      "qty": 3713330.8577794284,
+      "entry_price": 5.386e-06
+    },
+    "BONK/USD": {
+      "qty": 6493506.493506493,
+      "entry_price": 3.08e-06
+    },
+    "ONDO/USD": {
+      "qty": 53.57477699499076,
+      "entry_price": 0.37331
+    },
+    "XMR/USD": {
+      "qty": 0.03982556402955057,
+      "entry_price": 502.19
+    },
+    "PENDLE/USD": {
+      "qty": 9.062075215224286,
+      "entry_price": 2.207
+    },
+    "NEAR/USD": {
+      "qty": 8.765394223605208,
+      "entry_price": 2.2817
+    },
+    "WIF/USD": {
+      "qty": 92.85051067780873,
+      "entry_price": 0.2154
+    },
+    "UNI/USD": {
+      "qty": 2.919154029162349,
+      "entry_price": 6.8513
+    },
+    "RAY/USD": {
+      "qty": 18.552875695732837,
+      "entry_price": 1.078
+    },
+    "NIGHT/USD": {
+      "qty": 874.1258741258741,
+      "entry_price": 0.02288
+    },
+    "SKR/USD": {
+      "qty": 942.3738397022099,
+      "entry_price": 0.021223
     }
   },
   "starting_balance": 2000.0
