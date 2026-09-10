@@ -1,13 +1,9 @@
 {
-  "cash": 1629.4353310784352,
+  "cash": 1668.6622605708721,
   "positions": {
     "BABYSHARK/USD": {
       "qty": 59282.6789479932,
       "entry_price": 0.005381
-    },
-    "AUD/USD": {
-      "qty": 27.716570351584696,
-      "entry_price": 0.72159
     },
     "XCN/USD": {
       "qty": 5012.5313283208025,
@@ -20,10 +16,6 @@
     "DOG/USD": {
       "qty": 18587.36059479554,
       "entry_price": 0.001076
-    },
-    "NIGHT/USD": {
-      "qty": 874.1258741258741,
-      "entry_price": 0.02288
     }
   },
   "starting_balance": 2000.0
