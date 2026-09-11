@@ -1,13 +1,9 @@
 {
-  "cash": 987.9246829311205,
+  "cash": 308.92718919678464,
   "positions": {
     "BABYSHARK/USD": {
       "qty": 59282.6789479932,
       "entry_price": 0.005381
-    },
-    "XCN/USD": {
-      "qty": 5012.5313283208025,
-      "entry_price": 0.00399
     },
     "DOG/USD": {
       "qty": 18587.36059479554,
@@ -16,6 +12,10 @@
     "FIL/USD": {
       "qty": 889.4536213468868,
       "entry_price": 0.787
+    },
+    "AKE/USD": {
+      "qty": 47901.30688451268,
+      "entry_price": 0.01461338
     }
   },
   "starting_balance": 2000.0
