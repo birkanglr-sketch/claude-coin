@@ -1,5 +1,5 @@
 {
-  "cash": 1687.9246829311205,
+  "cash": 987.9246829311205,
   "positions": {
     "BABYSHARK/USD": {
       "qty": 59282.6789479932,
@@ -12,6 +12,10 @@
     "DOG/USD": {
       "qty": 18587.36059479554,
       "entry_price": 0.001076
+    },
+    "FIL/USD": {
+      "qty": 889.4536213468868,
+      "entry_price": 0.787
     }
   },
   "starting_balance": 2000.0
