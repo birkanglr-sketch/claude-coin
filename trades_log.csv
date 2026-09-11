@@ -105,3 +105,5 @@ timestamp,symbol,action,price,qty,cash_after,reason
 2026-09-11T00:36:25.957132+00:00,FIL/USD,BUY,0.787000,889.453621,987.92,RSI aşırı satımdan çıkış | Risk ağırlıklı bütçe: 700.00 USD (volatilite: 0.0036)
 2026-09-11T14:02:44.938850+00:00,XCN/USD,SELL,0.004190,5012.531328,1008.93,Take-profit (%5) | PnL: 1.00 (5.01%)
 2026-09-11T14:02:44.939021+00:00,AKE/USD,BUY,0.014613,47901.306885,308.93,MA Golden Cross | Risk ağırlıklı bütçe: 700.00 USD (volatilite: 0.0084)
+2026-09-11T20:06:04.463574+00:00,AKE/USD,SELL,0.014115,47901.306885,985.06,Stop-loss (%3) | PnL: -23.87 (-3.41%)
+2026-09-11T20:06:04.463695+00:00,XMR/USD,BUY,520.070000,1.345973,285.06,MA Golden Cross | Risk ağırlıklı bütçe: 700.00 USD (volatilite: 0.0035)
