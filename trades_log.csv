@@ -111,3 +111,5 @@ timestamp,symbol,action,price,qty,cash_after,reason
 2026-09-13T14:36:20.024463+00:00,FIL/USD,SELL,0.912000,889.453621,1115.22,Take-profit (%5) | PnL: 111.18 (15.88%)
 2026-09-13T14:36:20.024515+00:00,ETH/USD,BUY,2488.890000,0.281250,415.22,MA Golden Cross | Risk ağırlıklı bütçe: 700.00 USD (volatilite: 0.0018)
 2026-09-13T14:36:20.024537+00:00,ARB/USD,BUY,0.139900,2109.126771,120.15,MA Golden Cross | Risk ağırlıklı bütçe: 295.07 USD (volatilite: 0.0048)
+2026-09-13T22:05:12.646196+00:00,ARB/USD,SELL,0.135600,2109.126771,406.15,Stop-loss (%3) | PnL: -9.07 (-3.07%)
+2026-09-13T22:05:12.646315+00:00,AVL/USD,BUY,0.020728,18614.644691,20.31,MA Golden Cross | Risk ağırlıklı bütçe: 385.84 USD (volatilite: 0.0043)
