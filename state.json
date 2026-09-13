@@ -1,21 +1,21 @@
 {
-  "cash": 285.06180008078263,
+  "cash": 120.15436269635546,
   "positions": {
     "BABYSHARK/USD": {
       "qty": 59282.6789479932,
       "entry_price": 0.005381
     },
-    "DOG/USD": {
-      "qty": 18587.36059479554,
-      "entry_price": 0.001076
-    },
-    "FIL/USD": {
-      "qty": 889.4536213468868,
-      "entry_price": 0.787
-    },
     "XMR/USD": {
       "qty": 1.3459726575268713,
       "entry_price": 520.07
+    },
+    "ETH/USD": {
+      "qty": 0.2812498744420204,
+      "entry_price": 2488.89
+    },
+    "ARB/USD": {
+      "qty": 2109.126770693883,
+      "entry_price": 0.1399
     }
   },
   "starting_balance": 2000.0
