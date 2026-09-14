@@ -115,3 +115,5 @@ timestamp,symbol,action,price,qty,cash_after,reason
 2026-09-13T22:05:12.646315+00:00,AVL/USD,BUY,0.020728,18614.644691,20.31,MA Golden Cross | Risk ağırlıklı bütçe: 385.84 USD (volatilite: 0.0043)
 2026-09-14T04:56:21.711168+00:00,XMR/USD,SELL,521.900000,1.345973,722.77,RSI aşırı alımdan düşüş | PnL: 2.46 (0.35%)
 2026-09-14T10:19:25.071127+00:00,AUD/USD,BUY,0.712470,963.734882,36.14,RSI aşırı satımdan çıkış | Risk ağırlıklı bütçe: 686.63 USD (volatilite: 0.0004)
+2026-09-14T20:25:29.787459+00:00,AUD/USD,SELL,0.713680,963.734882,723.94,MA Death Cross | PnL: 1.17 (0.17%)
+2026-09-14T20:25:29.787584+00:00,XMR/USD,BUY,515.090000,1.335184,36.20,MA Golden Cross | Risk ağırlıklı bütçe: 687.74 USD (volatilite: 0.0025)
