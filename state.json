@@ -1,5 +1,5 @@
 {
-  "cash": 722.7707276033964,
+  "cash": 36.13853638016985,
   "positions": {
     "BABYSHARK/USD": {
       "qty": 59282.6789479932,
@@ -12,6 +12,10 @@
     "AVL/USD": {
       "qty": 18614.644691351008,
       "entry_price": 0.020728
+    },
+    "AUD/USD": {
+      "qty": 963.7348817820069,
+      "entry_price": 0.71247
     }
   },
   "starting_balance": 2000.0
