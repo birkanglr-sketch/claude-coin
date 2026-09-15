@@ -1,21 +1,17 @@
 {
-  "cash": 36.196842340517605,
+  "cash": 679.8022904704158,
   "positions": {
     "BABYSHARK/USD": {
       "qty": 59282.6789479932,
       "entry_price": 0.005381
     },
-    "ETH/USD": {
-      "qty": 0.2812498744420204,
-      "entry_price": 2488.89
-    },
     "AVL/USD": {
       "qty": 18614.644691351008,
       "entry_price": 0.020728
     },
-    "XMR/USD": {
-      "qty": 1.3351841512548,
-      "entry_price": 515.09
+    "EUR/USD": {
+      "qty": 606.8066367308726,
+      "entry_price": 1.15358
     }
   },
   "starting_balance": 2000.0
