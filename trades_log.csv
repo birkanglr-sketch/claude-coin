@@ -120,3 +120,4 @@ timestamp,symbol,action,price,qty,cash_after,reason
 2026-09-15T20:05:58.510996+00:00,ETH/USD,SELL,2411.010000,0.281250,714.29,Stop-loss (%3) | PnL: -21.90 (-3.13%)
 2026-09-15T20:05:58.511099+00:00,XMR/USD,SELL,498.440000,1.335184,1379.80,Stop-loss (%3) | PnL: -22.23 (-3.23%)
 2026-09-15T20:05:58.511182+00:00,EUR/USD,BUY,1.153580,606.806637,679.80,MA Golden Cross | Risk ağırlıklı bütçe: 700.00 USD (volatilite: 0.0002)
+2026-09-15T22:55:14.538770+00:00,TRX/USD,BUY,0.333009,1939.323490,33.99,MA Golden Cross | Risk ağırlıklı bütçe: 645.81 USD (volatilite: 0.0016)

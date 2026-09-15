@@ -1,5 +1,5 @@
 {
-  "cash": 679.8022904704158,
+  "cash": 33.99011452352079,
   "positions": {
     "BABYSHARK/USD": {
       "qty": 59282.6789479932,
@@ -12,6 +12,10 @@
     "EUR/USD": {
       "qty": 606.8066367308726,
       "entry_price": 1.15358
+    },
+    "TRX/USD": {
+      "qty": 1939.3234895960618,
+      "entry_price": 0.333009
     }
   },
   "starting_balance": 2000.0
