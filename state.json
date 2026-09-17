@@ -1,5 +1,5 @@
 {
-  "cash": 33.99011452352079,
+  "cash": 387.19773660066346,
   "positions": {
     "BABYSHARK/USD": {
       "qty": 59282.6789479932,
@@ -9,13 +9,13 @@
       "qty": 18614.644691351008,
       "entry_price": 0.020728
     },
-    "EUR/USD": {
-      "qty": 606.8066367308726,
-      "entry_price": 1.15358
+    "PAXG/USD": {
+      "qty": 0.1612371960390931,
+      "entry_price": 4341.43
     },
-    "TRX/USD": {
-      "qty": 1939.3234895960618,
-      "entry_price": 0.333009
+    "PENGU/USD": {
+      "qty": 40217.28890443775,
+      "entry_price": 0.007264
     }
   },
   "starting_balance": 2000.0
