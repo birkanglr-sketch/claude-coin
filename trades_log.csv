@@ -127,3 +127,5 @@ timestamp,symbol,action,price,qty,cash_after,reason
 2026-09-17T23:54:08.529779+00:00,PENGU/USD,BUY,0.007264,40217.288904,387.20,MA Golden Cross | Risk ağırlıklı bütçe: 292.14 USD (volatilite: 0.0027)
 2026-09-18T16:45:47.837342+00:00,PENGU/USD,SELL,0.007786,40217.288904,700.33,Take-profit (%5) | PnL: 20.99 (7.19%)
 2026-09-18T16:45:47.837428+00:00,INJ/USD,BUY,6.605000,100.728701,35.02,MA Golden Cross | Risk ağırlıklı bütçe: 665.31 USD (volatilite: 0.0105)
+2026-09-19T06:40:20.908925+00:00,INJ/USD,SELL,7.337000,100.728701,774.06,Take-profit (%5) | PnL: 73.73 (11.08%)
+2026-09-19T06:40:20.909041+00:00,BTC/USD,BUY,81054.200000,0.008636,74.06,RSI aşırı satımdan çıkış | Risk ağırlıklı bütçe: 700.00 USD (volatilite: 0.0009)
